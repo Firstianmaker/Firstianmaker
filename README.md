@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there! I'm Faiz Firstian Nugroho
 
-<!--
-**Firstianmaker/Firstianmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an inquisitive mind with a passion for technology and innovation. I thrive on transforming ideas into reality through code, exploring various facets of software development and problem-solving.
 
-Here are some ideas to get you started:
+## 🌐 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks**: React, Laravel
+- **Tools**: Git, GitHub, Visual Studio Code
+
+## 💡 Interests
+
+When I'm not coding, you'll find me:
+- Exploring the latest trends in tech
+- Experimenting with new tools
+- Deepening my knowledge across multiple disciplines
+
+I believe in the power of continuous learning and strive to expand my horizons every day.
+
+## 🚀 Let's Connect!
+
+I'm eager to collaborate on diverse projects and share insights within the tech community.
