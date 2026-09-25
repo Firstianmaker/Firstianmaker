@@ -20,36 +20,38 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=js,php,python,java,kotlin,dart,cpp&theme=dark&perline=7" width="280" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
+<img src="https://skillicons.dev/icons?i=js,php,python,java,kotlin,dart,cpp&theme=dark&perline=7" height="36" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
 <p><sub>JavaScript · PHP · Python · Java · Kotlin · Dart · C++ · SQL</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Web & Backend</b></p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap,nestjs&theme=dark&perline=7" width="300" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
-<p><sub>React · Next.js · Laravel / Blade · Node.js · Express · Tailwind · Bootstrap · Nest.js</sub></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap,nestjs&theme=dark&perline=8" height="36" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap, NestJS" />
+<p><sub>React · Next.js · Laravel / Blade · Node.js · Express · Tailwind · Bootstrap · NestJS</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Mobile</b></p>
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark&perline=2" width="100" alt=",Flutter, Android Studio" />
-<p><sub>Kotlin · Flutter · Android SDK · Jetpack</sub></p>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark&perline=3" height="36" alt="Kotlin, Flutter, Android Studio" />
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/android/android-original.svg" width="36" height="36" alt="Android" />
+<p><sub>Kotlin · Flutter · Android Studio · Android SDK · Jetpack</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Machine Learning</b></p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=2" width="76" alt="TensorFlow, OpenCV" />
-<p><sub>TensorFlow · Keras · OpenCV · Transfer Learning</sub></p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=2" height="36" alt="TensorFlow, OpenCV" />
+&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/keras/keras-original.svg" width="36" height="36" alt="Keras" />
+<p><sub>TensorFlow · OpenCV · Keras · Transfer Learning</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Databases & Caching</b></p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" width="158" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" height="36" alt="MySQL, PostgreSQL, MongoDB, Redis" />
 <p><sub>MySQL · PostgreSQL · MongoDB · Redis</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Tools & Deployment</b></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify&theme=dark&perline=8" width="320" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman, Figma, Vercel, Netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify&theme=dark&perline=8" height="36" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman, Figma, Vercel, Netlify" />
 <p><sub>Git · GitHub · VS Code · IntelliJ · Postman · Figma · Vercel · Netlify</sub></p>
 </td>
 </tr>
