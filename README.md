@@ -32,8 +32,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Mobile</b></p>
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark&perline=2" width="76" alt="Kotlin,Flutter, Android Studio" />
-<p><sub>Flutter · Android SDK · Jetpack</sub></p>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark&perline=2" width="100" alt=",Flutter, Android Studio" />
+<p><sub>Kotlin · Flutter · Android SDK · Jetpack</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Machine Learning</b></p>
