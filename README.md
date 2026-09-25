@@ -20,8 +20,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=js,php,python,java,kotlin,dart,cpp&theme=dark&perline=7" height="36" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
-<p><sub>JavaScript · PHP · Python · Java · Kotlin · Dart · C++ · SQL</sub></p>
+<img src="https://skillicons.dev/icons?i=js,php,python,java,cpp&theme=dark&perline=7" height="36" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
+<p><sub>JavaScript · PHP · Python · Java · C++ · SQL</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Web & Backend</b></p>
