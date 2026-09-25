@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Faiz Firstian Nugroho</h1>
-<p><b>Full-Stack Developer · Website & Mobile Developer · AI Engineer</b></p>
+<p><b>Full-Stack Developer · Backend · Mobile & AI</b></p>
 
 <a href="https://github.com/Firstianmaker"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;From+REST+APIs+to+mobile+AI.;Always+building.+Always+learning." width="85%" alt="Turning ideas into working software. From REST APIs to mobile AI. Always building. Always learning." /></a>
 
@@ -55,35 +55,35 @@
 </tr>
 </table>
 
-## 🚀 Selected Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3> Sindoraku</h3>
+<h3>Sindoraku</h3>
 <p><b>Offline sign language recognition</b></p>
 <p>A mobile application that recognizes BISINDO gestures through the device camera using MobileNetV2 and LSTM, without a server connection.</p>
 <p><b>96.01%</b> recognition accuracy across <b>15 vocabulary words</b> in project evaluation.</p>
 <p><img src="https://img.shields.io/badge/MobileNetV2-155E75?style=flat-square" alt="MobileNetV2" /> <img src="https://img.shields.io/badge/LSTM-0F172A?style=flat-square" alt="LSTM" /> <img src="https://img.shields.io/badge/On--device_AI-155E75?style=flat-square" alt="On-device AI" /></p>
-<a href="https://github.com/Firstianmaker/sindorakuapp">View application ↗</a> · <a href="https://github.com/Firstianmaker/sindoraku-model">Explore model ↗</a>
+<a href="https://github.com/Firstianmaker/sindorakuapp">View application</a> · <a href="https://github.com/Firstianmaker/sindoraku-model">Explore model</a>
 </td>
 <td width="50%" valign="top">
-<h3> AcademyNTM</h3>
+<h3>AcademyNTM</h3>
 <p><b>Model recruitment platform</b></p>
 <p>A freelance full-stack project supporting model registration, portfolio management, applications, and recruitment dashboards.</p>
 <p>Laravel Blade frontend with a Node.js and Express REST API, backed by MySQL.</p>
 <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></p>
-<a href="https://github.com/Firstianmaker/academyntmfix">Explore repository ↗</a>
+<a href="https://github.com/Firstianmaker/academyntmfix">Explore repository</a>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3> Manakeu</h3>
-<p><b>Financial management</b></p>
-<p>Backend services for projects, transactions, budgets, approvals, and reporting. Includes JWT and Google OAuth 2.0 authentication, role-based access control, Redis caching, activity logging, and input validation.</p>
+<h3>Manakeu</h3>
+<p><b>Full-stack financial management platform</b></p>
+<p>A financial management application with a Next.js frontend and a Node.js / Express backend for projects, transactions, budgets, approvals, and reporting. Includes JWT and Google OAuth 2.0 authentication, role-based access control, Redis caching, activity logging, and input validation.</p>
 <p>Integrated WhatsApp API, Twilio, and Midtrans for communication and payment automation, with REST APIs documented using Swagger/OpenAPI 3.0.</p>
-<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /></p>
-<a href="https://github.com/Firstianmaker/manakeu-update-final">Explore repository ↗</a>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /></p>
+<a href="https://github.com/Firstianmaker/manakeu-update-final">Explore repository</a>
 </td>
 </tr>
 </table>
@@ -148,7 +148,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
