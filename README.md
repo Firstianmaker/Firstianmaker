@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Faiz Firstian Nugroho</h1>
-<p><b>Full-Stack Developer · Backend · Mobile & AI</b></p>
+<p><b>Full-Stack Developer · Website & Mobile Developer · AI Engineer</b></p>
 
 <a href="https://github.com/Firstianmaker"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;From+REST+APIs+to+mobile+AI.;Always+building.+Always+learning." width="85%" alt="Turning ideas into working software. From REST APIs to mobile AI. Always building. Always learning." /></a>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
@@ -60,7 +60,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🤟 Sindoraku</h3>
+<h3> Sindoraku</h3>
 <p><b>Offline sign language recognition</b></p>
 <p>A mobile application that recognizes BISINDO gestures through the device camera using MobileNetV2 and LSTM, without a server connection.</p>
 <p><b>96.01%</b> recognition accuracy across <b>15 vocabulary words</b> in project evaluation.</p>
@@ -68,7 +68,7 @@
 <a href="https://github.com/Firstianmaker/sindorakuapp">View application ↗</a> · <a href="https://github.com/Firstianmaker/sindoraku-model">Explore model ↗</a>
 </td>
 <td width="50%" valign="top">
-<h3>🌐 AcademyNTM</h3>
+<h3> AcademyNTM</h3>
 <p><b>Model recruitment platform</b></p>
 <p>A freelance full-stack project supporting model registration, portfolio management, applications, and recruitment dashboards.</p>
 <p>Laravel Blade frontend with a Node.js and Express REST API, backed by MySQL.</p>
@@ -78,8 +78,8 @@
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3>💳 Manakeu</h3>
-<p><b>Financial management backend</b></p>
+<h3> Manakeu</h3>
+<p><b>Financial management</b></p>
 <p>Backend services for projects, transactions, budgets, approvals, and reporting. Includes JWT and Google OAuth 2.0 authentication, role-based access control, Redis caching, activity logging, and input validation.</p>
 <p>Integrated WhatsApp API, Twilio, and Midtrans for communication and payment automation, with REST APIs documented using Swagger/OpenAPI 3.0.</p>
 <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /></p>
@@ -92,7 +92,7 @@
 <a href="https://faiz-portfolio-two-psi.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Explore my portfolio" /></a>
 </div>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
