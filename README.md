@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Faiz Firstian Nugroho</h1>
-<p><b>Full-Stack Developer · Backend · Mobile & AI</b></p>
+<p><b>Full-Stack Developer · Website & Mobile Developer · AI Engineer</b></p>
 
 <a href="https://github.com/Firstianmaker"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;From+REST+APIs+to+mobile+AI.;Always+building.+Always+learning." width="85%" alt="Turning ideas into working software. From REST APIs to mobile AI. Always building. Always learning." /></a>
 
@@ -25,8 +25,8 @@
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Web & Backend</b></p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap&theme=dark&perline=7" width="280" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
-<p><sub>React · Next.js · Laravel / Blade · Node.js · Express · Tailwind · Bootstrap</sub></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap,nestjs&theme=dark&perline=7" width="280" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
+<p><sub>React · Next.js · Laravel / Blade · Node.js · Express · Tailwind · Bootstrap · Nest.js</sub></p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Machine Learning</b></p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=2" width="76" alt="TensorFlow, OpenCV" />
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,opencv&theme=dark&perline=2" width="76" alt="TensorFlow, OpenCV" />
 <p><sub>TensorFlow · Keras · OpenCV · Transfer Learning</sub></p>
 </td>
 </tr>
