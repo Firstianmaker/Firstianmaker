@@ -7,7 +7,6 @@
 
 <p>Computer Science graduate from UPN "Veteran" Jakarta.<br />Previously a Programmer Intern at <b>GfK — An NIQ Company</b>.</p>
 
-<a href="https://faiz-portfolio-two-psi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Visit my portfolio" /></a>
 <a href="https://www.linkedin.com/in/faiz-firstian-nugroho-518299305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:faizfirstiannugroho@gmail.com"><img src="https://img.shields.io/badge/Email-155E75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Faiz" /></a>
 <a href="https://github.com/Firstianmaker"><img src="https://img.shields.io/badge/Firstianmaker-181717?style=for-the-badge&logo=github&logoColor=white" alt="Firstianmaker on GitHub" /></a>
@@ -21,7 +20,7 @@
 <td width="50%" align="center" valign="top">
 <p><b>Languages</b></p>
 <img src="https://skillicons.dev/icons?i=js,php,python,java,cpp&theme=dark&perline=7" height="36" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
-<p><sub>JavaScript · PHP · Python · Java · C++ · SQL</sub></p>
+<p><sub>JavaScript · PHP · Python · Java · C++</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Web & Backend</b></p>
@@ -34,13 +33,13 @@
 <p><b>Mobile</b></p>
 <img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&theme=dark&perline=3" height="36" alt="Kotlin, Flutter, Android Studio" />
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/android/android-original.svg" width="36" height="36" alt="Android" />
-<p><sub>Kotlin · Flutter · Android Studio · Android SDK · Jetpack</sub></p>
+<p><sub>Kotlin · Flutter · Android Studio · Android SDK</sub></p>
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Machine Learning</b></p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=2" height="36" alt="TensorFlow, OpenCV" />
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/keras/keras-original.svg" width="36" height="36" alt="Keras" />
-<p><sub>TensorFlow · OpenCV · Keras · Transfer Learning</sub></p>
+<p><sub>TensorFlow · OpenCV · Keras</sub></p>
 </td>
 </tr>
 <tr>
@@ -89,10 +88,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-<a href="https://faiz-portfolio-two-psi.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Explore my portfolio" /></a>
-</div>
 
 ## GitHub Activity
 
