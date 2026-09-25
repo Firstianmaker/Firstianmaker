@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:155e75,100:22d3ee&height=180&section=header&text=Faiz%20Firstian%20Nugroho&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPMENT%20%C2%B7%20BACKEND%20%C2%B7%20MOBILE%20%26%20AI&descSize=13&descAlignY=60" width="100%" alt="Faiz Firstian Nugroho — Full-stack development, backend, mobile and AI" />
+<h1>Faiz Firstian Nugroho</h1>
+<p><b>Full-Stack Developer · Backend · Mobile & AI</b></p>
 
 <a href="https://github.com/Firstianmaker"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;From+REST+APIs+to+mobile+AI.;Always+building.+Always+learning." width="85%" alt="Turning ideas into working software. From REST APIs to mobile AI. Always building. Always learning." /></a>
 
-<p>Computer Science graduate • Former Programmer Intern at GfK — An NIQ Company<br />Building web applications, backend services, and mobile experiences.</p>
+<p>Computer Science graduate from UPN "Veteran" Jakarta.<br />Previously a Programmer Intern at <b>GfK — An NIQ Company</b>.</p>
 
 <a href="https://faiz-portfolio-two-psi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Visit my portfolio" /></a>
 <a href="https://www.linkedin.com/in/faiz-firstian-nugroho-518299305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -13,52 +14,46 @@
 
 </div>
 
-## 👨‍💻 Behind the Code
-
-I'm **Faiz**, a Computer Science graduate from **UPN "Veteran" Jakarta** with a **3.90 / 4.00 GPA**. I enjoy solving real-world problems through reliable, efficient, and maintainable software.
-
-- 🛠️ **Industry experience:** Contributed to internal business applications at **GfK — An NIQ Company**, using Laravel, PHP, PostgreSQL, and Python data utilities.
-- 🌐 **Web & backend:** Built recruitment and financial management platforms with REST APIs, authentication, and third-party integrations.
-- 📱 **Mobile & AI:** Developed **Sindoraku**, an application for real-time, offline BISINDO gesture recognition.
-- 🤝 **Let's connect:** Interested in software engineering opportunities, collaboration, and exchanging ideas.
-
 ## 🧰 Tech Stack
 
-<div align="center">
-
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=js,php,python,java,kotlin,dart,cpp&theme=dark&perline=7" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
-<br /><br />
-<img src="https://img.shields.io/badge/SQL-155E75?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-
-<h3>Web & Backend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap&theme=dark&perline=7" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
-<br /><br />
-<img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Blade" />
-
-<h3>Mobile & Machine Learning</h3>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,tensorflow,opencv&theme=dark&perline=4" alt="Flutter, Android Studio, TensorFlow, OpenCV" />
-<br /><br />
-<img src="https://img.shields.io/badge/Android_SDK_%2F_Jetpack-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK and Jetpack" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-
-<h3>Databases & Caching</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" alt="MySQL, PostgreSQL, MongoDB, Redis" />
-
-<h3>Tools & Deployment</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify&theme=dark&perline=8" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman, Figma, Vercel, Netlify" />
-
-</div>
-
-<details>
-<summary><b>More of what I work with</b></summary>
-
-- **AI techniques:** Transfer learning, fine-tuning, model quantization, and data augmentation.
-- **Model architectures:** MobileNetV2, EfficientNetB0, ResNet50, DenseNet201, and LSTM.
-- **Backend capabilities:** JWT, Google OAuth 2.0, role-based access control, Redis caching, and Swagger/OpenAPI documentation.
-- **Data processing:** Polars, SQLAlchemy, and Microsoft Excel integration.
-
-</details>
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+<p><b>Languages</b></p>
+<img src="https://skillicons.dev/icons?i=js,php,python,java,kotlin,dart,cpp&theme=dark&perline=7" width="280" alt="JavaScript, PHP, Python, Java, Kotlin, Dart, C++" />
+<p><sub>JavaScript · PHP · Python · Java · Kotlin · Dart · C++ · SQL</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+<p><b>Web & Backend</b></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap&theme=dark&perline=7" width="280" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
+<p><sub>React · Next.js · Laravel / Blade · Node.js · Express · Tailwind · Bootstrap</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<p><b>Mobile</b></p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark&perline=2" width="76" alt="Flutter, Android Studio" />
+<p><sub>Flutter · Android SDK · Jetpack</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+<p><b>Machine Learning</b></p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=2" width="76" alt="TensorFlow, OpenCV" />
+<p><sub>TensorFlow · Keras · OpenCV · Transfer Learning</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<p><b>Databases & Caching</b></p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" width="158" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+<p><sub>MySQL · PostgreSQL · MongoDB · Redis</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+<p><b>Tools & Deployment</b></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify&theme=dark&perline=8" width="320" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman, Figma, Vercel, Netlify" />
+<p><sub>Git · GitHub · VS Code · IntelliJ · Postman · Figma · Vercel · Netlify</sub></p>
+</td>
+</tr>
+</table>
 
 ## 🚀 Selected Projects
 
@@ -170,6 +165,5 @@ jobs:
 <b>Have an idea to build together?</b>
 <p><a href="mailto:faizfirstiannugroho@gmail.com">Let's talk</a> · <a href="https://www.linkedin.com/in/faiz-firstian-nugroho-518299305/">Connect on LinkedIn</a></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:155e75,100:22d3ee&height=100&section=footer" width="100%" alt="Navy and cyan wave footer" />
 
 </div>
