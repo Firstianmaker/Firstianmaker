@@ -25,7 +25,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Web & Backend</b></p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap,nestjs&theme=dark&perline=7" width="280" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap,nestjs&theme=dark&perline=7" width="300" alt="React, Next.js, Laravel, Node.js, Express.js, Tailwind CSS, Bootstrap" />
 <p><sub>React · Next.js · Laravel / Blade · Node.js · Express · Tailwind · Bootstrap · Nest.js</sub></p>
 </td>
 </tr>
@@ -37,7 +37,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Machine Learning</b></p>
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,opencv&theme=dark&perline=2" width="76" alt="TensorFlow, OpenCV" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=2" width="76" alt="TensorFlow, OpenCV" />
 <p><sub>TensorFlow · Keras · OpenCV · Transfer Learning</sub></p>
 </td>
 </tr>
