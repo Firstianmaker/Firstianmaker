@@ -100,7 +100,7 @@
 
 <br /><br />
 
-<a href="https://github.com/Firstianmaker"><img src="https://streak-stats.demolab.com?user=Firstianmaker&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="65%" alt="Firstianmaker's GitHub contribution streak" /></a>
+<a href="https://github.com/Firstianmaker"><img src="https://streak-stats.demolab.com?user=Firstianmaker&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="85%" alt="Firstianmaker's GitHub contribution streak" /></a>
 
 </div>
 
