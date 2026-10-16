@@ -98,9 +98,7 @@
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Firstianmaker&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" alt="Most-used languages in Firstianmaker's public repositories" />
 </a>
 
-<br /><br />
-
-<a href="https://github.com/Firstianmaker"><img src="https://streak-stats.demolab.com?user=Firstianmaker&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="85%" alt="Firstianmaker's GitHub contribution streak" /></a>
+<a href="https://github.com/Firstianmaker"><img height="170" src="https://streak-stats.demolab.com?user=Firstianmaker&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="85%" alt="Firstianmaker's GitHub contribution streak" /></a>
 
 </div>
 
